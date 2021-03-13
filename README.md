@@ -1,4 +1,4 @@
-### About Me 👋
+## About Me 👋
 
 Hello, my name is Armin and I am an experienced full stack engineer with a focus on JavaScript/TypeScript stacks.
 
@@ -6,7 +6,7 @@ I am constantly experimenting with new technologies, so you'll find all kinds of
 
 You can find some of the technologies I enjoy using below.
 
-### Languages
+## Languages
 
 <div>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="32">
@@ -15,7 +15,7 @@ You can find some of the technologies I enjoy using below.
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="32">
 </div>
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="react" height="32">
@@ -27,7 +27,7 @@ You can find some of the technologies I enjoy using below.
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/babel/babel-original.svg" alt="babel" height="32">
 </div>
 
-### Databases
+## Databases
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="postgresql" height="32">
@@ -35,7 +35,7 @@ You can find some of the technologies I enjoy using below.
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="redis" height="32">
 </div>
 
-### Devops
+## Devops
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nginx/nginx-original.svg" alt="nginx" height="32">
@@ -44,7 +44,7 @@ You can find some of the technologies I enjoy using below.
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="32">
 </div>
 
-### Stats
+## Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=arevi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
