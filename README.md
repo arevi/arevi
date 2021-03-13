@@ -1,10 +1,7 @@
 ## About Me 👋
 
-Hello, my name is Armin and I am an experienced full stack engineer with a focus on JavaScript/TypeScript stacks.
+Hello, my name is Armin and I am an experienced full stack engineer with a focus on JavaScript/TypeScript stacks. You can find some of the projects I'm currently working on below, as well the technologies I frequently work with.
 
-I am constantly experimenting with new technologies, so you'll find all kinds of sample templates I've setup for myself for future projects on my GitHub. Feel free to contribute to any of my templates!
-
-You can find some of the technologies I enjoy using below.
 
 ## Languages
 
@@ -27,17 +24,12 @@ You can find some of the technologies I enjoy using below.
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/babel/babel-original.svg" alt="babel" height="32">
 </div>
 
-## Databases
+## Databases & DevOps
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="postgresql" height="32">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" height="32">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="redis" height="32">
-</div>
-
-## Devops
-
-<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nginx/nginx-original.svg" alt="nginx" height="32">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original.svg" alt="docker" height="32">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" height="32">
